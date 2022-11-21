@@ -7,7 +7,7 @@ export default abstract class Race {
     this._dexterity = dexterity;
   }
 
-  static get createdRacesInstances(): number {
+  static createdRacesInstances(): number {
     throw new Error('Not implemented');
   }
 

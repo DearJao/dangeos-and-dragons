@@ -1,13 +1,13 @@
-<h1><strong>Bem vindo/a ao meu projeto Dangeos & Dragons!!<strong></h1>
+<h1><strong>Bem vindo/a ao meu projeto Dangeos & Dragons!!</strong></h1>
 
-<h2><strong><summary>Sobre o projeto:</strong></summary></h2>
+<h2><strong><summary>Sobre o projeto:</summary></strong></h2>
   Esse projeto é uma simulação do que seria um jogo baseado em D&D, jogo de tabuleiro muito famoso sobre guerreiros medievais e monstros.
   As diversas raças (como, por exemplo, Élfica, Orc ou Anã) definem as características das personagens dentro do jogo desde a sua criação, como os seus pontos de vida
   e a sua destreza. No entanto, existem seres bestiais denominados monstros que não possuem uma raça específica, mas podem lutar.
   Na construção dele a ideia era dominar a criação de classes e interfaces através do TypeScript, mantendo todas as classes abstratas para facilitar o uso e manter
   tudo organizado, aqui tambem temos a opção de batalhas entre os personagens.
 
-<h2><strong><summary>Construção e Features/Tecnologias:</strong></summary></h2
+<h2><strong><summary>Construção e Features/Tecnologias:</summary></strong></h2
   A construção foi feita através do <strong>Docker</strong> para que ele possa ser usado em qualquer maquina, foi escrito inteiramente com <strong>TypeScript</strong>
   com classes abstratas e interfaces, para se ter mais segurança no código e facilitar a leitura, manutenção e escalabilidade da aplicação.
 

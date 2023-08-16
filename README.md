@@ -35,9 +35,9 @@
         │     └──🔹 Orc.ts</br>
         │     └──🔹 Race.ts</br>
         │     └──🔹 index.ts</br>
-        └──🔹 Character.ts</br>
-        └──🔹 Energy.ts</br>
-        └──🔹 Monster.ts</br>
+        ├──🔹 Character.ts</br>
+        ├──🔹 Energy.ts</br>
+        ├──🔹 Monster.ts</br>
         └──🔹 utils.ts</br>
   .Legenda:</br>
       🔸 Diretorios</br>

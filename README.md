@@ -14,30 +14,30 @@
 <h2><summary><strong>.Estrutura:</strong></summary></h2>
 <details>
       src</br>
-        ├──🔸 Archetypes
-        │     ├──🔹 Archetype.ts
-        │     └──🔹 Mage.ts
-        │     └──🔹 Necromancer.ts
-        │     └──🔹 Ranger.ts
-        │     └──🔹 Warrior.ts
-        │     └──🔹 index.ts
-        ├──🔸 Battle
-        │     ├──🔹 Batle.ts
-        │     └──🔹 index.ts
-        ├──🔸 Fighter
-        │     ├──🔹 Figther.ts
-        │     └──🔹 SimpleFighter.ts
-        │     └──🔹 SimpleFighter.tsindex.ts
-        ├──🔸 Races
-        │     ├──🔹 Dwarf.ts
-        │     └──🔹 Elf.ts
-        │     └──🔹 Halfling.ts
-        │     └──🔹 Orc.ts
-        │     └──🔹 Race.ts
-        │     └──🔹 index.ts
-        └──🔹 Character.ts
-        └──🔹 Energy.ts
-        └──🔹 Monster.ts
+        ├──🔸 Archetypes</br>
+        │     ├──🔹 Archetype.ts</br>
+        │     └──🔹 Mage.ts</br>
+        │     └──🔹 Necromancer.ts</br>
+        │     └──🔹 Ranger.ts</br>
+        │     └──🔹 Warrior.ts</br>
+        │     └──🔹 index.ts</br>
+        ├──🔸 Battle</br>
+        │     ├──🔹 Batle.ts</br>
+        │     └──🔹 index.ts</br>
+        ├──🔸 Fighter</br>
+        │     ├──🔹 Figther.ts</br>
+        │     └──🔹 SimpleFighter.ts</br>
+        │     └──🔹 SimpleFighter.tsindex.ts</br>
+        ├──🔸 Races</br>
+        │     ├──🔹 Dwarf.ts</br>
+        │     └──🔹 Elf.ts</br>
+        │     └──🔹 Halfling.ts</br>
+        │     └──🔹 Orc.ts</br>
+        │     └──🔹 Race.ts</br>
+        │     └──🔹 index.ts</br>
+        └──🔹 Character.ts</br>
+        └──🔹 Energy.ts</br>
+        └──🔹 Monster.ts</br>
         └──🔹 utils.ts</br>
   .Legenda:</br>
       🔸 Diretorios</br>
